@@ -9,7 +9,9 @@
            // then, put the SSID in this command will show you password
                   
 # how_it_work
-  it use [netsh wlan show profiles] get your device all connected wifi SSIDs.              
-  than, put the SSIDs from last command in [netsh wlan show profile [SSID] key=clear] to get passwords.           
+  it use [netsh wlan show profiles] get your device all connected wifi SSIDs.  
+  
+  than, put the SSIDs from last command in [netsh wlan show profile [SSID] key=clear] to get passwords.        
+  
   finally, show you the results from your screen.                
 
