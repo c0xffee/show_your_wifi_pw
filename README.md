@@ -1,5 +1,6 @@
 # show_your_wifi_pw
-  this program can show your wifi passwords on windows OS     
+  this program can show your wifi passwords on windows OS.   
+  
   the key command:                           
   
         >netsh wlan show profiles
